@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482172703387",
+    "firebase_url": "https://ladm-u5-p1-xaviermonroy.firebaseio.com",
+    "project_id": "ladm-u5-p1-xaviermonroy",
+    "storage_bucket": "ladm-u5-p1-xaviermonroy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482172703387:android:ce94b644dde16aab42ec3e",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u5_p1_xaviermonroy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482172703387-k1313kvnkh6h76k4hpg2ct1nbfcgld26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE1SoDpZZ9IgX4U5MZHhKQon8s96xnED4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482172703387-k1313kvnkh6h76k4hpg2ct1nbfcgld26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
